@@ -8,8 +8,8 @@ synopsis:            A simple countdown timer, using win32 api.
 homepage:            https://github.com/jiecut/countdown-timer
 license:             GPL-2
 license-file:        LICENSE
-author:              jie
-maintainer:          jiecut648@gmail.com
+author:              Onyinyechi Eze
+maintainer:          onyinyechieze46@gmail.com
 -- copyright:           
 -- category:            
 build-type:          Simple
